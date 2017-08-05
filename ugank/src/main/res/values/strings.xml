@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">UGank</string>
+
+    <string name="welcome_ugank"><![CDATA[>> 欢迎进入 UGank]]></string>
+    <string name="home_search">搜索干货(日期数字有福利哦(｡◕∀◕｡))</string>
+
+</resources>
